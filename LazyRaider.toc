@@ -1,0 +1,15 @@
+## Interface: 20400
+## Title: LazyRaider
+## Notes: A collection of tools for lazy raiders
+## Author: xDD, Totori
+## SavedVariables: LazyRaiderDB, LazyRaider_BoP, LazyRaider_AutoInvite
+
+Libs\AceAddon-3.0\AceAddon-3.0.lua
+Libs\AceDB-3.0\AceDB-3.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+Libs\LibStub\LibStub.lua
+
+LazyRaider.lua
+LazyRaiderBroker.lua
+LazyRaider.xml
