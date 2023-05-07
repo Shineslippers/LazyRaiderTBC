@@ -1,7 +1,8 @@
 ## Interface: 20400
 ## Title: LazyRaider
-## Notes: A collection of tools for lazy raiders
 ## Author: xDD, Totori
+## Version: 1.1
+## Notes: A collection of tools for lazy raiders
 ## SavedVariables: LazyRaiderDB, LazyRaider_BoP, LazyRaider_AutoInvite
 
 Libs\AceAddon-3.0\AceAddon-3.0.lua
